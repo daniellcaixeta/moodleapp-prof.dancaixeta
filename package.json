@@ -1,10 +1,10 @@
 {
-  "name": "moodlemobile",
-  "version": "4.1.0",
-  "description": "The official app for Moodle.",
+  "name": "profdancaixeta",
+  "version": "1.0",
+  "description": "Moodle APP - Prof. Daniel Caixeta",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "Prof. Daniel Caixeta",
+    "email": "dcqg@hotmail.com"
   },
   "repository": {
     "type": "git",
